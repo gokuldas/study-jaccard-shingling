@@ -1,3 +1,10 @@
+#
+# corpus.py
+# Jaccard shingling algorithm project
+#
+# Copyright (c) 2012, Gokul Das
+#
+
 # Taken from wikipedia article on 'Text corpus'
 
 text = """In linguistics a corpus plural corpora or text corpus is a large and structured set of texts nowadays usually electronically stored and processed They are used to do statistical analysis and hypothesis testing checking occurrences or validating linguistic rules on a specific universe

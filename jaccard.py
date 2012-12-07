@@ -1,3 +1,10 @@
+#
+# jaccard.py
+# Jaccard shingling algorithm project
+#
+# Copyright (c) 2012, Gokul Das
+#
+
 def bigram_shingler(str):
     """Extract a set of 2 character n-grams (character bigrams) from string"""
     big_set = {str[x:x+2] for x in range(0, len(str) -1) if len(str) > 1}
