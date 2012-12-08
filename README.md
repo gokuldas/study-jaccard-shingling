@@ -4,6 +4,7 @@ study-jaccard-shingling
 An accademic implementation of Jaccard shingling algorithm. Written in Python 3. The aim is to identify a similar word from a text corpus to a given input word. The text to prepare the corpus is given in one of the source files. For more info, refer:
 
 http://matpalm.com/resemblance/jaccard_coeff/
+
 http://nlp.stanford.edu/IR-book/html/htmledition/near-duplicates-and-shingling-1.html
 
 Algorithm
